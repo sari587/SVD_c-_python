@@ -1,0 +1,7 @@
+due to time limits and personal reasons me and my partner could not optimize
+the code in time but we managed to create a working code the only setback is that
+it takes a lot of run time for a large input (even with a small rank of approximation)
+
+
+because the runtime of our imolmatition was major we include results 
+of the algorithm for only the first two matrixes from data_8.txt in the result.txt file
